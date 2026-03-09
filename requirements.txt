@@ -1,2 +1,6 @@
 streamlit
 pandas
+plotly
+lunar-python
+geopy
+pypinyin
